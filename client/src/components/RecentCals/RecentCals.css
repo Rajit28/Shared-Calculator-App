@@ -1,0 +1,9 @@
+.recent{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-right: 10px;
+    color: rgb(82, 243, 18);
+    height: 55%;
+    justify-content: space-between;
+}

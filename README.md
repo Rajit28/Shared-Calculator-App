@@ -5,7 +5,11 @@ https://priceless-yalow-0c431d.netlify.app/
 To run the app
 1. clone the repository to your machine
 2. Run npm i seperately for client and server folder
-3. Run npm start seperately for  client and server folder
+3. Run npm start seperately for client and server folder
+
+Login with your name and the room you want to join. Different teams can work in different rooms. 
+Do the calculations on the calculator and send the results with some other details you want to share from the chat window.
+The recent 10 calculations by the team can be seen on the page. You will also be able to see the active members in the room on the right.
 
 Login Page
 To solve together enter the same room name

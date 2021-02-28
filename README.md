@@ -9,7 +9,9 @@ To run the app
 
 Login with your name and the room you want to join. Different teams can work in different rooms. 
 Do the calculations on the calculator and send the results with some other details you want to share from the chat window.
-The recent 10 calculations by the team can be seen on the page. You will also be able to see the active members in the room on the right.
+The recent 10 calculations by the team can be seen on the page. You will also be able to see the active members in the room on the left.
+
+This is a framework which can be scaled up both from features as well as number of users perspective.
 
 Login Page
 To solve together enter the same room name
